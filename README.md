@@ -25,11 +25,10 @@ Type your task in the input field -> Select priority level (High, Medium, Low) -
 
 #Installation
 
-Clone the repository
+Clone the repository :
 git clone https://github.com/Sunandan-collab/To-do-List.git
-npm start
 
-Open your browser
+Open your browser : 
 Navigate to http://localhost:3000 to view the application
 
 #GOOD LUCK !!!!!!!!!
