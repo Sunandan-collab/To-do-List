@@ -5,7 +5,7 @@ A beautiful, feature-rich task management application built with React.js, featu
 <img width="1479" height="849" alt="Screenshot 2025-08-03 121401" src="https://github.com/user-attachments/assets/a3e0f693-07a4-4eaf-b543-a70fb3d35f9c" />
 
 
-Technologies Used
+#Technologies Used
 
 Frontend: React.js
 
@@ -18,28 +18,20 @@ Icons: Custom CSS icons
 Design: Glass-morphism aesthetic
 
 
-Usage Guide
+#Usage Guide
 
 Type your task in the input field -> Select priority level (High, Medium, Low) -> Choose a category (Work, Personal, Health) -> Click the "+" button or press Enter -> Using Voice Input ( Click the microphone button)-> Click "+" to add the task
 
 
-Installation
+#Installation
 
 Clone the repository
 git clone https://github.com/Sunandan-collab/To-do-List.git
 cd To-do-List
-
-Install dependencies
 npm install
-# or
-yarn install
-
-Start the development server
 npm start
-# or
-yarn start
 
 Open your browser
 Navigate to http://localhost:3000 to view the application
 
-GOOD LUCK !!!!!!!!!
+#GOOD LUCK !!!!!!!!!
