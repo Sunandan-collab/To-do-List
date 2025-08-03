@@ -27,8 +27,6 @@ Type your task in the input field -> Select priority level (High, Medium, Low) -
 
 Clone the repository
 git clone https://github.com/Sunandan-collab/To-do-List.git
-cd To-do-List
-npm install
 npm start
 
 Open your browser
